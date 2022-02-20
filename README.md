@@ -1,6 +1,6 @@
 # atomu21263
 |  key  |  value  |
-| ---- | ---- |
+| :-: | :-: |
 |  Name  |  aatomu / atomu21263  |
 |  HomePage  |  [>>Click Here <<](http://atomic.f5.si:8816/main.php)  |
 |  Twitter  |  [@atomu2123](https://twitter.com/atomu21263)  |
