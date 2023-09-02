@@ -3,7 +3,7 @@
 | :-: | :-: |
 |  Name  |  aatomu |
 |  HomePage  |  [>>Click Here <<](https://www.aatomu.work)  |
-|  Twitter  |  [@atomu2123](https://twitter.com/aatomu21263)  |
+|  Twitter  |  [@aatomu21263](https://twitter.com/aatomu21263)  |
 
 ## Status
 <div>
