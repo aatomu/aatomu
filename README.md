@@ -1,9 +1,9 @@
 # aatomu
 |  key  |  value  |
 | :-: | :-: |
-|  Name  |  aatomu / atomu21263  |
+|  Name  |  aatomu |
 |  HomePage  |  [>>Click Here <<](https://www.aatomu.work)  |
-|  Twitter  |  [@atomu2123](https://twitter.com/atomu21263)  |
+|  Twitter  |  [@atomu2123](https://twitter.com/aatomu21263)  |
 
 ## Status
 <div>
