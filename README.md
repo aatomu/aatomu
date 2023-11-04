@@ -29,7 +29,7 @@
       <td>
         <li> Homepage: <a href="https://www.aatomu.work">aatomu blog</a>
         <li> Twitter : <a href="https://www.twitter.com/aatomu21263">@aatomu21263</a>
-        <li> Youtube : <a href="https://www.youtube.com/aatomu">@aatomu</a>
+        <li> Youtube : <a href="https://www.youtube.com/@aatomu">@aatomu</a>
       </td>
     </tr>
   </tbody>
