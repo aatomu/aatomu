@@ -1,20 +1,47 @@
 # aatomu
-|  key  |  value  |
-| :-: | :-: |
-|  Name  |  aatomu |
-|  HomePage  |  [>>Click Here <<](https://www.aatomu.work)  |
-|  Twitter  |  [@aatomu21263](https://twitter.com/aatomu21263)  |
+```
+     ┏━━━━━┓     ┏━━━━━┓
+     ┃     ┃     ┃     ┃
+     ┗━━━━━╋━━━━━╋━━━━━┛
+           ┃     ┃
+      ┏━━━━┛     ┗━━━━┓  ┌─────────────────┐
+      ┃    ┏━━━━━┓    ┃ ／    Good Bye!    │
+      ┃    ┃     ┃    ┃ ＼     "Boom!"     │
+      ┗━━━━┛     ┗━━━━┛  └─────────────────┘
+```
 
-## Status
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aatomu&show_icons=true&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aatomu&langs_count=10&theme=radical" />
-</div>
+---
 
-## My Bot & Library Codes
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=atomic_bot&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=musicBot&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=openJtalkBot&show_owner=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=atomicgo&show_owner=true" />
-</div>
+<table>
+  <thead>
+    <th>
+      Minecraft Skin
+    </th>
+    <th>
+      Links
+    </th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://mc-heads.net/body/aatomu/left">
+      </td>
+      <td>
+        <li> Homepage: <a href="https://www.aatomu.work">aatomu blog</a>
+        <li> Twitter : <a href="https://www.twitter.com/aatomu21263">@aatomu21263</a>
+        <li> Youtube : <a href="https://www.youtube.com/aatomu">@aatomu</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+![aatomu's github stats](https://github-readme-stats.vercel.app/api?username=aatomu&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aatomu&hide=html)
+
+## Most(?) Working Repositorys
+[![atomicgo](https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=atomicgo&show_owner=true)](https://github.com/aatomu/atomicgo)
+[![slashlib](https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=slashlib&show_owner=true)](https://github.com/aatomu/slashlib)
+[![Webdav](https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=Webdav&show_owner=true)](https://github.com/aatomu/Webdav)
+[![atomic_bot](https://github-readme-stats.vercel.app/api/pin/?username=aatomu&repo=atomic_bot&show_owner=true)](https://github.com/aatomu/atomic_bot)
